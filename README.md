@@ -1,1 +1,1 @@
-How do you check if a webpage is HTML5? Try it out on Internet Explorer 🤡
+A DHCP packet walks into a bar and asks for a beer. Bartender says, "here, but I’ll need that back in an hour!" 🤡
