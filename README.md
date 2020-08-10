@@ -1,1 +1,1 @@
-I was gonna tell you a joke about UDP... ...but you might not get it. 🤡
+Why do Java programmers wear glasses? Because they don't C# 🤡
