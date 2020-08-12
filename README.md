@@ -1,1 +1,1 @@
-How do you check if a webpage is HTML5? Try it out on Internet Explorer 🤡
+I was gonna tell you a joke about UDP... ...but you might not get it. 🤡
