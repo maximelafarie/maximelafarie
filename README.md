@@ -1,1 +1,1 @@
-What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit. 🤡
+Why do C# and Java developers keep breaking their keyboards? Because they use a strongly typed language. 🤡
