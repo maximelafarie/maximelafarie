@@ -1,1 +1,1 @@
-Why do C# and Java developers keep breaking their keyboards? Because they use a strongly typed language. 🤡
+What did the router say to the doctor? It hurts when IP. 🤡
