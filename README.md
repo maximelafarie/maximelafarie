@@ -1,1 +1,1 @@
-A DHCP packet walks into a bar and asks for a beer. Bartender says, "here, but I’ll need that back in an hour!" 🤡
+An IPv6 packet is walking out of the house. He goes nowhere. 🤡
