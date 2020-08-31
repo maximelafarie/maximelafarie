@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+Which song would an exception sing? Can't catch me - Avicii 🤡
