@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+Knock-knock. A race condition. Who is there? 🤡
