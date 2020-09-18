@@ -1,1 +1,1 @@
-Why do Java programmers wear glasses? Because they don't C# 🤡
+What did the router say to the doctor? It hurts when IP. 🤡
