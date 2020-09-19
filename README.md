@@ -1,1 +1,1 @@
-What did the router say to the doctor? It hurts when IP. 🤡
+There are 10 kinds of people in this world. Those who understand binary, those who don't, and those who weren't expecting a base 3 joke. 🤡
