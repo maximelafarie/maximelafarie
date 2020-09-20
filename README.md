@@ -1,1 +1,1 @@
-There are 10 kinds of people in this world. Those who understand binary, those who don't, and those who weren't expecting a base 3 joke. 🤡
+How many programmers does it take to change a lightbulb? None that's a hardware problem 🤡
