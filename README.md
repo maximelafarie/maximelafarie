@@ -1,1 +1,1 @@
-How many programmers does it take to change a lightbulb? None that's a hardware problem 🤡
+A DHCP packet walks into a bar and asks for a beer. Bartender says, "here, but I’ll need that back in an hour!" 🤡
