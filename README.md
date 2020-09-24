@@ -1,1 +1,1 @@
-What's the object-oriented way to become wealthy? Inheritance 🤡
+Why do Java programmers wear glasses? Because they don't C# 🤡
