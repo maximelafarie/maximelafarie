@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+Why do C# and Java developers keep breaking their keyboards? Because they use a strongly typed language. 🤡
