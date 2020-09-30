@@ -1,1 +1,1 @@
-A DHCP packet walks into a bar and asks for a beer. Bartender says, "here, but I’ll need that back in an hour!" 🤡
+A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t. 🤡
