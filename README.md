@@ -1,1 +1,1 @@
-A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t. 🤡
+There are 10 kinds of people in this world. Those who understand binary, those who don't, and those who weren't expecting a base 3 joke. 🤡
