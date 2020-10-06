@@ -1,1 +1,1 @@
-There are 10 kinds of people in this world. Those who understand binary, those who don't, and those who weren't expecting a base 3 joke. 🤡
+The punchline often arrives before the set-up. Do you know the problem with UDP jokes? 🤡
