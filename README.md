@@ -1,1 +1,1 @@
-3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
+What's the object-oriented way to become wealthy? Inheritance 🤡
