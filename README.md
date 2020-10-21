@@ -1,1 +1,1 @@
-What's the object-oriented way to become wealthy? Inheritance 🤡
+I was gonna tell you a joke about UDP... ...but you might not get it. 🤡
