@@ -1,1 +1,1 @@
-What did the router say to the doctor? It hurts when IP. 🤡
+I was gonna tell you a joke about UDP... ...but you might not get it. 🤡
