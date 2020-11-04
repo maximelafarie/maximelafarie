@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+I was gonna tell you a joke about UDP... ...but you might not get it. 🤡
