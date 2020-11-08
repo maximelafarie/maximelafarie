@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+A user interface is like a joke. If you have to explain it then it is not that good. 🤡
