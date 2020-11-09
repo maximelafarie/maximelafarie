@@ -1,1 +1,1 @@
-A user interface is like a joke. If you have to explain it then it is not that good. 🤡
+A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?' 🤡
