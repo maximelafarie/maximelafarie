@@ -1,1 +1,1 @@
-A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t. 🤡
+To understand what recursion is... You must first understand what recursion is 🤡
