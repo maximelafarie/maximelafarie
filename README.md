@@ -1,1 +1,1 @@
-What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit. 🤡
+Why do Java programmers wear glasses? Because they don't C# 🤡
