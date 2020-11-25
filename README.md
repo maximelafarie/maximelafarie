@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+To understand what recursion is... You must first understand what recursion is 🤡
