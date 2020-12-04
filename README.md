@@ -1,1 +1,1 @@
-What's the object-oriented way to become wealthy? Inheritance 🤡
+How many programmers does it take to change a lightbulb? None that's a hardware problem 🤡
