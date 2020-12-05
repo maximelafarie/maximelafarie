@@ -1,1 +1,1 @@
-How many programmers does it take to change a lightbulb? None that's a hardware problem 🤡
+A user interface is like a joke. If you have to explain it then it is not that good. 🤡
