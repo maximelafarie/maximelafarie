@@ -1,1 +1,1 @@
-What's the object-oriented way to become wealthy? Inheritance 🤡
+Knock-knock. A race condition. Who is there? 🤡
