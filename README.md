@@ -1,1 +1,1 @@
-How many programmers does it take to change a lightbulb? None that's a hardware problem 🤡
+An IPv6 packet is walking out of the house. He goes nowhere. 🤡
