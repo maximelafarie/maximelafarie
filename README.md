@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+Why do Java programmers wear glasses? Because they don't C# 🤡
