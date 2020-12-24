@@ -1,1 +1,1 @@
-Why do Java programmers wear glasses? Because they don't C# 🤡
+I was gonna tell you a joke about UDP... ...but you might not get it. 🤡
