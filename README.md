@@ -1,1 +1,1 @@
-There are 10 types of people in this world... Those who understand binary and those who don't 🤡
+I was gonna tell you a joke about UDP... ...but you might not get it. 🤡
