@@ -1,1 +1,1 @@
-To understand what recursion is... You must first understand what recursion is 🤡
+What's the object-oriented way to become wealthy? Inheritance 🤡
