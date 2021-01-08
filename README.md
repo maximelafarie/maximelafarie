@@ -1,1 +1,1 @@
-What's the object-oriented way to become wealthy? Inheritance 🤡
+What did the router say to the doctor? It hurts when IP. 🤡
