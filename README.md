@@ -1,1 +1,1 @@
-Why did the programmer quit his job? Because he didn't get arrays. 🤡
+A user interface is like a joke. If you have to explain it then it is not that good. 🤡
