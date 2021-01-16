@@ -1,1 +1,1 @@
-Why did the programmer quit his job? Because he didn't get arrays. 🤡
+3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
