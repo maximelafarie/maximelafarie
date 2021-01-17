@@ -1,1 +1,1 @@
-3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
+I was gonna tell you a joke about UDP... ...but you might not get it. 🤡
