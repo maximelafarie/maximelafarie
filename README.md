@@ -1,1 +1,1 @@
-A DHCP packet walks into a bar and asks for a beer. Bartender says, "here, but I’ll need that back in an hour!" 🤡
+3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
