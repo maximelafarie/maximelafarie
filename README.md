@@ -1,1 +1,1 @@
-There are 10 types of people in this world... Those who understand binary and those who don't 🤡
+Where do programmers like to hangout? The Foo Bar. 🤡
