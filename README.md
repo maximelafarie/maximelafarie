@@ -1,1 +1,1 @@
-How do you check if a webpage is HTML5? Try it out on Internet Explorer 🤡
+Why do C# and Java developers keep breaking their keyboards? Because they use a strongly typed language. 🤡
