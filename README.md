@@ -1,1 +1,1 @@
-How do you check if a webpage is HTML5? Try it out on Internet Explorer 🤡
+What's the best part about TCP jokes? I get to keep telling them until you get them. 🤡
