@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+What's the object-oriented way to become wealthy? Inheritance 🤡
