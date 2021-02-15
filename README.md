@@ -1,1 +1,1 @@
-There are 10 kinds of people in this world. Those who understand binary, those who don't, and those who weren't expecting a base 3 joke. 🤡
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program the rest of them will write Perl 🤡
