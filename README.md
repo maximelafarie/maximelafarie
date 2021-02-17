@@ -1,1 +1,1 @@
-What's the best part about TCP jokes? I get to keep telling them until you get them. 🤡
+There are 10 types of people in this world... Those who understand binary and those who don't 🤡
