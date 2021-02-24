@@ -1,1 +1,1 @@
-['hip', 'hip'] (hip hip array) 🤡
+There are 10 types of people in this world... Those who understand binary and those who don't 🤡
