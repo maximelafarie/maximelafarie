@@ -1,1 +1,1 @@
-To understand what recursion is... You must first understand what recursion is 🤡
+A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?' 🤡
