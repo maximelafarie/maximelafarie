@@ -1,1 +1,1 @@
-Why do Java programmers wear glasses? Because they don't C# 🤡
+How many programmers does it take to change a lightbulb? None that's a hardware problem 🤡
