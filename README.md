@@ -1,1 +1,1 @@
-Knock-knock. A race condition. Who is there? 🤡
+There are 10 types of people in this world... Those who understand binary and those who don't 🤡
