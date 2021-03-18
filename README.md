@@ -1,1 +1,1 @@
-There are 10 types of people in this world... Those who understand binary and those who don't 🤡
+Which song would an exception sing? Can't catch me - Avicii 🤡
