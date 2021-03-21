@@ -1,1 +1,1 @@
-Where do programmers like to hangout? The Foo Bar. 🤡
+What did the router say to the doctor? It hurts when IP. 🤡
