@@ -1,1 +1,1 @@
-What did the router say to the doctor? It hurts when IP. 🤡
+A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?' 🤡
