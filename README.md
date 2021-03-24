@@ -1,1 +1,1 @@
-How many programmers does it take to change a lightbulb? None that's a hardware problem 🤡
+Why do C# and Java developers keep breaking their keyboards? Because they use a strongly typed language. 🤡
