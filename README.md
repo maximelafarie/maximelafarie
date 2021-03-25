@@ -1,1 +1,1 @@
-Why do C# and Java developers keep breaking their keyboards? Because they use a strongly typed language. 🤡
+Why did the programmer quit his job? Because he didn't get arrays. 🤡
