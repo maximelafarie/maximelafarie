@@ -1,1 +1,1 @@
-Why did the programmer quit his job? Because he didn't get arrays. 🤡
+Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25 🤡
