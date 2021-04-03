@@ -1,1 +1,1 @@
-Why do Java programmers wear glasses? Because they don't C# 🤡
+A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?' 🤡
