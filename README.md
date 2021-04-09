@@ -1,1 +1,1 @@
-How do you check if a webpage is HTML5? Try it out on Internet Explorer 🤡
+What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit. 🤡
