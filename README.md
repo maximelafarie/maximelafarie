@@ -1,1 +1,1 @@
-Knock-knock. A race condition. Who is there? 🤡
+Why did the programmer quit his job? Because he didn't get arrays. 🤡
