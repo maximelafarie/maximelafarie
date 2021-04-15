@@ -1,1 +1,1 @@
-What's the object-oriented way to become wealthy? Inheritance 🤡
+A user interface is like a joke. If you have to explain it then it is not that good. 🤡
