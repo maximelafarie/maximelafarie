@@ -1,1 +1,1 @@
-What's the best part about TCP jokes? I get to keep telling them until you get them. 🤡
+How many programmers does it take to change a lightbulb? None that's a hardware problem 🤡
