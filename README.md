@@ -1,1 +1,1 @@
-A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?' 🤡
+3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
