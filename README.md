@@ -1,1 +1,1 @@
-To understand what recursion is... You must first understand what recursion is 🤡
+Why do C# and Java developers keep breaking their keyboards? Because they use a strongly typed language. 🤡
