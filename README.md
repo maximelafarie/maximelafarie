@@ -1,1 +1,1 @@
-What's the best part about TCP jokes? I get to keep telling them until you get them. 🤡
+What's the object-oriented way to become wealthy? Inheritance 🤡
