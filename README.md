@@ -1,1 +1,1 @@
-There are 10 types of people in this world... Those who understand binary and those who don't 🤡
+A user interface is like a joke. If you have to explain it then it is not that good. 🤡
