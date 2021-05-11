@@ -1,1 +1,1 @@
-3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
+Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25 🤡
