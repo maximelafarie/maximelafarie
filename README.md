@@ -1,1 +1,1 @@
-What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit. 🤡
+What's the best part about TCP jokes? I get to keep telling them until you get them. 🤡
