@@ -1,1 +1,1 @@
-3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
+What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit. 🤡
