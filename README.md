@@ -1,1 +1,1 @@
-What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit. 🤡
+The punchline often arrives before the set-up. Do you know the problem with UDP jokes? 🤡
