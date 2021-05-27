@@ -1,1 +1,1 @@
-The punchline often arrives before the set-up. Do you know the problem with UDP jokes? 🤡
+An IPv6 packet is walking out of the house. He goes nowhere. 🤡
