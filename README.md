@@ -1,1 +1,1 @@
-What did the router say to the doctor? It hurts when IP. 🤡
+A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t. 🤡
