@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
