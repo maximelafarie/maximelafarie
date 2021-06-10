@@ -1,1 +1,1 @@
-Why do C# and Java developers keep breaking their keyboards? Because they use a strongly typed language. 🤡
+There are 10 types of people in this world... Those who understand binary and those who don't 🤡
