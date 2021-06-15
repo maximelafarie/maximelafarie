@@ -1,1 +1,1 @@
-A user interface is like a joke. If you have to explain it then it is not that good. 🤡
+The punchline often arrives before the set-up. Do you know the problem with UDP jokes? 🤡
