@@ -1,1 +1,1 @@
-The punchline often arrives before the set-up. Do you know the problem with UDP jokes? 🤡
+How do you check if a webpage is HTML5? Try it out on Internet Explorer 🤡
