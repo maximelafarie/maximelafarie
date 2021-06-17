@@ -1,1 +1,1 @@
-How do you check if a webpage is HTML5? Try it out on Internet Explorer 🤡
+3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
