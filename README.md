@@ -1,1 +1,1 @@
-A user interface is like a joke. If you have to explain it then it is not that good. 🤡
+A DHCP packet walks into a bar and asks for a beer. Bartender says, "here, but I’ll need that back in an hour!" 🤡
