@@ -1,1 +1,1 @@
-Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25 🤡
+There are 10 kinds of people in this world. Those who understand binary, those who don't, and those who weren't expecting a base 3 joke. 🤡
