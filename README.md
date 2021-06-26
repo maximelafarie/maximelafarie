@@ -1,1 +1,1 @@
-What's the object-oriented way to become wealthy? Inheritance 🤡
+There are 10 types of people in this world... Those who understand binary and those who don't 🤡
