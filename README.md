@@ -1,1 +1,1 @@
-There are 10 types of people in this world... Those who understand binary and those who don't 🤡
+An IPv6 packet is walking out of the house. He goes nowhere. 🤡
