@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+Why did the programmer quit his job? Because he didn't get arrays. 🤡
