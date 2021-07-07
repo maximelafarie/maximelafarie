@@ -1,1 +1,1 @@
-How do you check if a webpage is HTML5? Try it out on Internet Explorer 🤡
+There are 10 types of people in this world... Those who understand binary and those who don't 🤡
