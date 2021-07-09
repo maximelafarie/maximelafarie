@@ -1,1 +1,1 @@
-How many programmers does it take to change a lightbulb? None that's a hardware problem 🤡
+Knock-knock. A race condition. Who is there? 🤡
