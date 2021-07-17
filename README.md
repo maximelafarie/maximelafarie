@@ -1,1 +1,1 @@
-A user interface is like a joke. If you have to explain it then it is not that good. 🤡
+3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
