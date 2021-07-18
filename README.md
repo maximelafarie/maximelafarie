@@ -1,1 +1,1 @@
-3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
+What's the best part about TCP jokes? I get to keep telling them until you get them. 🤡
