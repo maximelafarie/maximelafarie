@@ -1,1 +1,1 @@
-Where do programmers like to hangout? The Foo Bar. 🤡
+Why did the programmer quit his job? Because he didn't get arrays. 🤡
