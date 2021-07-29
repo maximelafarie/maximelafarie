@@ -1,1 +1,1 @@
-3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
+There are 10 types of people in this world... Those who understand binary and those who don't 🤡
