@@ -1,1 +1,1 @@
-There are 10 types of people in this world... Those who understand binary and those who don't 🤡
+Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25 🤡
