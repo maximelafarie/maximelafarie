@@ -1,1 +1,1 @@
-Knock-knock. A race condition. Who is there? 🤡
+The punchline often arrives before the set-up. Do you know the problem with UDP jokes? 🤡
