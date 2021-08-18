@@ -1,1 +1,1 @@
-What's the object-oriented way to become wealthy? Inheritance 🤡
+A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?' 🤡
