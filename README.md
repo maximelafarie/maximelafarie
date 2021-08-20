@@ -1,1 +1,1 @@
-There are 10 types of people in this world... Those who understand binary and those who don't 🤡
+What did the router say to the doctor? It hurts when IP. 🤡
