@@ -1,1 +1,1 @@
-What did the router say to the doctor? It hurts when IP. 🤡
+An IPv6 packet is walking out of the house. He goes nowhere. 🤡
