@@ -1,1 +1,1 @@
-An IPv6 packet is walking out of the house. He goes nowhere. 🤡
+Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25 🤡
