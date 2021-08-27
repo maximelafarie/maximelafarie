@@ -1,1 +1,1 @@
-3 SQL statements walk into a NoSQL bar. Soon, they walk out They couldn't find a table. 🤡
+A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t. 🤡
