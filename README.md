@@ -1,1 +1,1 @@
-A user interface is like a joke. If you have to explain it then it is not that good. 🤡
+How do you check if a webpage is HTML5? Try it out on Internet Explorer 🤡
