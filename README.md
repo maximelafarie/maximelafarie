@@ -1,1 +1,1 @@
-The punchline often arrives before the set-up. Do you know the problem with UDP jokes? 🤡
+I was gonna tell you a joke about UDP... ...but you might not get it. 🤡
