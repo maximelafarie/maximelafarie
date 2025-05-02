@@ -1,0 +1,18 @@
+name: 🚨 Report Inappropriate Word
+description: Triggers a new Urban Dictionary image generation.
+title: "🚨 Request image regeneration"
+labels: [regeneration]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! This will automatically trigger a fresh image regeneration.
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why are you reporting this word?
+      description: You can optionally explain what seems inappropriate or problematic.
+      placeholder: e.g. contains offensive language, controversial definition, etc.
+    validations:
+      required: false

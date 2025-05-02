@@ -1,0 +1,39 @@
+name: Trigger Regeneration on Issue
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  regenerate:
+    if: github.event.issue.title == '🚨 Request image regeneration'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Urban Dictionary script
+        run: npm run execute
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "🔁 Urban Dictionary regeneration via issue" || echo "No changes to commit"
+          git push
+
+      - name: Close the issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "✅ New images were generated. Thanks for your report!"
