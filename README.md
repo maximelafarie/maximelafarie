@@ -1,9 +1,9 @@
-![](img/word.1747981995296.png)
-![](img/vote.1747981995296.png)
-![](img/definition.1747981995296.png)
-![](img/example.1747981995296.png)
+![](img/word.1748586798978.png)
+![](img/vote.1748586798978.png)
+![](img/definition.1748586798978.png)
+![](img/example.1748586798978.png)
 
-<sub>Authored by: _I'm at  yo house_ · See [original post](http://idwtttybidkhtty.urbanup.com/16343709)</sub>
+<sub>Authored by: _-Duckie-_ · See [original post](http://cky.urbanup.com/1395923)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
