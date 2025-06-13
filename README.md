@@ -1,9 +1,9 @@
-![](img/word.1749191721781.png)
-![](img/vote.1749191721781.png)
-![](img/definition.1749191721781.png)
-![](img/example.1749191721781.png)
+![](img/word.1749796486036.png)
+![](img/vote.1749796486036.png)
+![](img/definition.1749796486036.png)
+![](img/example.1749796486036.png)
 
-<sub>Authored by: _hoboace_ · See [original post](http://knee-beard.urbanup.com/2858220)</sub>
+<sub>Authored by: _ZenB22_ · See [original post](http://useless.urbanup.com/14567498)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
