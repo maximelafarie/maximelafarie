@@ -1,9 +1,9 @@
-![](img/word.1749796486036.png)
-![](img/vote.1749796486036.png)
-![](img/definition.1749796486036.png)
-![](img/example.1749796486036.png)
+![](img/word.1750401278721.png)
+![](img/vote.1750401278721.png)
+![](img/definition.1750401278721.png)
+![](img/example.1750401278721.png)
 
-<sub>Authored by: _ZenB22_ · See [original post](http://useless.urbanup.com/14567498)</sub>
+<sub>Authored by: _PisceanPrince_ · See [original post](http://shroc.urbanup.com/17273251)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
