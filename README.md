@@ -1,9 +1,9 @@
-![](img/word.1752820642565.png)
-![](img/vote.1752820642565.png)
-![](img/definition.1752820642565.png)
-![](img/example.1752820642565.png)
+![](img/word.1753425507524.png)
+![](img/vote.1753425507524.png)
+![](img/definition.1753425507524.png)
+![](img/example.1753425507524.png)
 
-<sub>Authored by: _FORTNITEMEMES41_ · See [original post](https://www.urbandictionary.com/define.php?term=Keira&defid=13925873)</sub>
+<sub>Authored by: _deandoeandoeandoea_ · See [original post](https://www.urbandictionary.com/define.php?term=Jacob%20Maksym&defid=17849538)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
