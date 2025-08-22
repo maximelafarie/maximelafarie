@@ -1,9 +1,9 @@
-![](img/word.1755239811632.png)
-![](img/vote.1755239811632.png)
-![](img/definition.1755239811632.png)
-![](img/example.1755239811632.png)
+![](img/word.1755844512011.png)
+![](img/vote.1755844512011.png)
+![](img/definition.1755844512011.png)
+![](img/example.1755844512011.png)
 
-<sub>Authored by: _piog hater_ · See [original post](https://www.urbandictionary.com/define.php?term=JN&defid=1088074)</sub>
+<sub>Authored by: _Da Cronem_ · See [original post](https://www.urbandictionary.com/define.php?term=Bid&defid=18405606)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
