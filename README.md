@@ -1,9 +1,9 @@
-![](img/word.1758868414041.png)
-![](img/vote.1758868414041.png)
-![](img/definition.1758868414041.png)
-![](img/example.1758868414041.png)
+![](img/word.1759473227853.png)
+![](img/vote.1759473227853.png)
+![](img/definition.1759473227853.png)
+![](img/example.1759473227853.png)
 
-<sub>Authored by: _Knitty_ · See [original post](https://www.urbandictionary.com/define.php?term=Brown%20Sugar&defid=17851009)</sub>
+<sub>Authored by: _Fatman Invents Words_ · See [original post](https://www.urbandictionary.com/define.php?term=A%20Greasy%20Ginger&defid=10514372)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
