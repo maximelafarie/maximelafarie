@@ -1,9 +1,9 @@
-![](img/word.1761287638152.png)
-![](img/vote.1761287638152.png)
-![](img/definition.1761287638152.png)
-![](img/example.1761287638152.png)
+![](img/word.1761892522591.png)
+![](img/vote.1761892522591.png)
+![](img/definition.1761892522591.png)
+![](img/example.1761892522591.png)
 
-<sub>Authored by: _Dyshea_ · See [original post](https://www.urbandictionary.com/define.php?term=Dyshea&defid=16690660)</sub>
+<sub>Authored by: _ashleelovesarmin _ · See [original post](https://www.urbandictionary.com/define.php?term=bizvarre&defid=15870560)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
