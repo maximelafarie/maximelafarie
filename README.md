@@ -1,9 +1,9 @@
-![](img/word.1761892522591.png)
-![](img/vote.1761892522591.png)
-![](img/definition.1761892522591.png)
-![](img/example.1761892522591.png)
+![](img/word.1762497522332.png)
+![](img/vote.1762497522332.png)
+![](img/definition.1762497522332.png)
+![](img/example.1762497522332.png)
 
-<sub>Authored by: _ashleelovesarmin _ · See [original post](https://www.urbandictionary.com/define.php?term=bizvarre&defid=15870560)</sub>
+<sub>Authored by: _Flutterbybug _ · See [original post](https://www.urbandictionary.com/define.php?term=shloom%20girl&defid=13591227)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
