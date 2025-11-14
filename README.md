@@ -1,9 +1,9 @@
-![](img/word.1762497522332.png)
-![](img/vote.1762497522332.png)
-![](img/definition.1762497522332.png)
-![](img/example.1762497522332.png)
+![](img/word.1763102195707.png)
+![](img/vote.1763102195707.png)
+![](img/definition.1763102195707.png)
+![](img/example.1763102195707.png)
 
-<sub>Authored by: _Flutterbybug _ · See [original post](https://www.urbandictionary.com/define.php?term=shloom%20girl&defid=13591227)</sub>
+<sub>Authored by: _whayyyy_ · See [original post](https://www.urbandictionary.com/define.php?term=Quiche%20me%20baby&defid=6179450)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
