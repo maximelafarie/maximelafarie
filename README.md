@@ -1,9 +1,9 @@
-![](img/word.1763707021522.png)
-![](img/vote.1763707021522.png)
-![](img/definition.1763707021522.png)
-![](img/example.1763707021522.png)
+![](img/word.1764311866788.png)
+![](img/vote.1764311866788.png)
+![](img/definition.1764311866788.png)
+![](img/example.1764311866788.png)
 
-<sub>Authored by: _Floyd Gray & Michael Francis_ · See [original post](https://www.urbandictionary.com/define.php?term=im%20sleep&defid=514366)</sub>
+<sub>Authored by: _Imthesmartest200876_ · See [original post](https://www.urbandictionary.com/define.php?term=Monkey&defid=17438884)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
