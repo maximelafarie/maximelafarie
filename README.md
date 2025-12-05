@@ -1,9 +1,9 @@
-![](img/word.1764311866788.png)
-![](img/vote.1764311866788.png)
-![](img/definition.1764311866788.png)
-![](img/example.1764311866788.png)
+![](img/word.1764916700267.png)
+![](img/vote.1764916700267.png)
+![](img/definition.1764916700267.png)
+![](img/example.1764916700267.png)
 
-<sub>Authored by: _Imthesmartest200876_ · See [original post](https://www.urbandictionary.com/define.php?term=Monkey&defid=17438884)</sub>
+<sub>Authored by: _GalaticFist👽_ · See [original post](https://www.urbandictionary.com/define.php?term=Gunther&defid=11490385)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
