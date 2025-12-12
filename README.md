@@ -1,9 +1,9 @@
-![](img/word.1764916700267.png)
-![](img/vote.1764916700267.png)
-![](img/definition.1764916700267.png)
-![](img/example.1764916700267.png)
+![](img/word.1765521612189.png)
+![](img/vote.1765521612189.png)
+![](img/definition.1765521612189.png)
+![](img/example.1765521612189.png)
 
-<sub>Authored by: _GalaticFist👽_ · See [original post](https://www.urbandictionary.com/define.php?term=Gunther&defid=11490385)</sub>
+<sub>Authored by: _Ionduck_ · See [original post](https://www.urbandictionary.com/define.php?term=Legow&defid=8225227)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
