@@ -1,9 +1,9 @@
-![](img/word.1765521612189.png)
-![](img/vote.1765521612189.png)
-![](img/definition.1765521612189.png)
-![](img/example.1765521612189.png)
+![](img/word.1766126308129.png)
+![](img/vote.1766126308129.png)
+![](img/definition.1766126308129.png)
+![](img/example.1766126308129.png)
 
-<sub>Authored by: _Ionduck_ · See [original post](https://www.urbandictionary.com/define.php?term=Legow&defid=8225227)</sub>
+<sub>Authored by: _PoisonedSavage_ · See [original post](https://www.urbandictionary.com/define.php?term=ready%20the%20pole&defid=17708536)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
