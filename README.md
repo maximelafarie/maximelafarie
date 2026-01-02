@@ -1,9 +1,9 @@
-![](img/word.1766731165083.png)
-![](img/vote.1766731165083.png)
-![](img/definition.1766731165083.png)
-![](img/example.1766731165083.png)
+![](img/word.1767336029645.png)
+![](img/vote.1767336029645.png)
+![](img/definition.1767336029645.png)
+![](img/example.1767336029645.png)
 
-<sub>Authored by: _Runner_que_ · See [original post](https://www.urbandictionary.com/define.php?term=Qhayiya&defid=16650934)</sub>
+<sub>Authored by: _polessss_ · See [original post](https://www.urbandictionary.com/define.php?term=Evan&defid=18513006)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
