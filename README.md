@@ -1,9 +1,9 @@
-![](img/word.1767336029645.png)
-![](img/vote.1767336029645.png)
-![](img/definition.1767336029645.png)
-![](img/example.1767336029645.png)
+![](img/word.1767940876816.png)
+![](img/vote.1767940876816.png)
+![](img/definition.1767940876816.png)
+![](img/example.1767940876816.png)
 
-<sub>Authored by: _polessss_ · See [original post](https://www.urbandictionary.com/define.php?term=Evan&defid=18513006)</sub>
+<sub>Authored by: _Oznohpla_ · See [original post](https://www.urbandictionary.com/define.php?term=Sociopathical&defid=17245869)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
