@@ -1,9 +1,9 @@
-![](img/word.1768545663319.png)
-![](img/vote.1768545663319.png)
-![](img/definition.1768545663319.png)
-![](img/example.1768545663319.png)
+![](img/word.1769150516738.png)
+![](img/vote.1769150516738.png)
+![](img/definition.1769150516738.png)
+![](img/example.1769150516738.png)
 
-<sub>Authored by: _slopapotmuas hater_ · See [original post](https://www.urbandictionary.com/define.php?term=slopapotmuas&defid=5599610)</sub>
+<sub>Authored by: _slangerr009_ · See [original post](https://www.urbandictionary.com/define.php?term=Nrly&defid=9985256)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
