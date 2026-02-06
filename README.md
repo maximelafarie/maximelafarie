@@ -1,9 +1,9 @@
-![](img/word.1770115085784.png)
-![](img/vote.1770115085784.png)
-![](img/definition.1770115085784.png)
-![](img/example.1770115085784.png)
+![](img/word.1770361300379.png)
+![](img/vote.1770361300379.png)
+![](img/definition.1770361300379.png)
+![](img/example.1770361300379.png)
 
-<sub>Authored by: _Emmatic_ · See [original post](https://www.urbandictionary.com/define.php?term=Tram&defid=5769837)</sub>
+<sub>Authored by: _Beautiful_Disaster12_ · See [original post](https://www.urbandictionary.com/define.php?term=Mandie&defid=10700186)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
