@@ -1,9 +1,9 @@
-![](img/word.1771571027731.png)
-![](img/vote.1771571027731.png)
-![](img/definition.1771571027731.png)
-![](img/example.1771571027731.png)
+![](img/word.1772175699993.png)
+![](img/vote.1772175699993.png)
+![](img/definition.1772175699993.png)
+![](img/example.1772175699993.png)
 
-<sub>Authored by: _breadman junior senior_ · See [original post](https://www.urbandictionary.com/define.php?term=Shower%20Head&defid=15496521)</sub>
+<sub>Authored by: _ggdkl_ · See [original post](https://www.urbandictionary.com/define.php?term=trifecta&defid=17023511)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
