@@ -1,9 +1,9 @@
-![](img/word.1772780259350.png)
-![](img/vote.1772780259350.png)
-![](img/definition.1772780259350.png)
-![](img/example.1772780259350.png)
+![](img/word.1773385322432.png)
+![](img/vote.1773385322432.png)
+![](img/definition.1773385322432.png)
+![](img/example.1773385322432.png)
 
-<sub>Authored by: _The_Director05_ · See [original post](https://www.urbandictionary.com/define.php?term=Craftable&defid=15909929)</sub>
+<sub>Authored by: _Geographicallysoundjustin_ · See [original post](https://www.urbandictionary.com/define.php?term=Wesley%20Snipes&defid=5710290)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
