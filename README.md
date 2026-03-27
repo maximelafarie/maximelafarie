@@ -1,9 +1,9 @@
-![](img/word.1773990178706.png)
-![](img/vote.1773990178706.png)
-![](img/definition.1773990178706.png)
-![](img/example.1773990178706.png)
+![](img/word.1774595772869.png)
+![](img/vote.1774595772869.png)
+![](img/definition.1774595772869.png)
+![](img/example.1774595772869.png)
 
-<sub>Authored by: _enken_ · See [original post](https://www.urbandictionary.com/define.php?term=unbirthday&defid=19967)</sub>
+<sub>Authored by: _Dane_ · See [original post](https://www.urbandictionary.com/define.php?term=Oh%20Sine&defid=24031)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
