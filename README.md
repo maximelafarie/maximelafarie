@@ -1,9 +1,9 @@
-![](img/word.1774595772869.png)
-![](img/vote.1774595772869.png)
-![](img/definition.1774595772869.png)
-![](img/example.1774595772869.png)
+![](img/word.1775200635099.png)
+![](img/vote.1775200635099.png)
+![](img/definition.1775200635099.png)
+![](img/example.1775200635099.png)
 
-<sub>Authored by: _Dane_ · See [original post](https://www.urbandictionary.com/define.php?term=Oh%20Sine&defid=24031)</sub>
+<sub>Authored by: _Anonymous_ · See [original post](https://www.urbandictionary.com/define.php?term=nah%20mean&defid=16983)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
