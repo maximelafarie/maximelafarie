@@ -1,9 +1,9 @@
-![](img/word.1775807372730.png)
-![](img/vote.1775807372730.png)
-![](img/definition.1775807372730.png)
-![](img/example.1775807372730.png)
+![](img/word.1776412607990.png)
+![](img/vote.1776412607990.png)
+![](img/definition.1776412607990.png)
+![](img/example.1776412607990.png)
 
-<sub>Authored by: _TRUTH_ · See [original post](https://www.urbandictionary.com/define.php?term=sportsmanship&defid=48434)</sub>
+<sub>Authored by: _olejj_ · See [original post](https://www.urbandictionary.com/define.php?term=Zoot%20O%27clock&defid=10290703)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
