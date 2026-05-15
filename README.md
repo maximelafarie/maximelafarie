@@ -1,9 +1,9 @@
-![](img/word.1778226459639.png)
-![](img/vote.1778226459639.png)
-![](img/definition.1778226459639.png)
-![](img/example.1778226459639.png)
+![](img/word.1778835289608.png)
+![](img/vote.1778835289608.png)
+![](img/definition.1778835289608.png)
+![](img/example.1778835289608.png)
 
-<sub>Authored by: _Trance Zomba_ · See [original post](https://www.urbandictionary.com/define.php?term=Arcade%20Fire&defid=14720374)</sub>
+<sub>Authored by: _Jack Abbott III_ · See [original post](https://www.urbandictionary.com/define.php?term=popeye&defid=2268729)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
