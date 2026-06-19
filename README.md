@@ -1,9 +1,9 @@
-![](img/word.1781259676002.png)
-![](img/vote.1781259676002.png)
-![](img/definition.1781259676002.png)
-![](img/example.1781259676002.png)
+![](img/word.1781865894527.png)
+![](img/vote.1781865894527.png)
+![](img/definition.1781865894527.png)
+![](img/example.1781865894527.png)
 
-<sub>Authored by: _NolF_ · See [original post](https://www.urbandictionary.com/define.php?term=ooglee&defid=3907317)</sub>
+<sub>Authored by: _All_Knowing_ · See [original post](https://www.urbandictionary.com/define.php?term=spade&defid=1444142)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
