@@ -1,9 +1,9 @@
-![](img/word.1782466575311.png)
-![](img/vote.1782466575311.png)
-![](img/definition.1782466575311.png)
-![](img/example.1782466575311.png)
+![](img/word.1783070775547.png)
+![](img/vote.1783070775547.png)
+![](img/definition.1783070775547.png)
+![](img/example.1783070775547.png)
 
-<sub>Authored by: _The folded animator _ · See [original post](https://www.urbandictionary.com/define.php?term=The%20folded%20animator&defid=17339815)</sub>
+<sub>Authored by: _Ryan Nash_ · See [original post](https://www.urbandictionary.com/define.php?term=Metal%20Fingers&defid=2544891)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
