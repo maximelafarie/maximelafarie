@@ -1,9 +1,9 @@
-![](img/word.1783070775547.png)
-![](img/vote.1783070775547.png)
-![](img/definition.1783070775547.png)
-![](img/example.1783070775547.png)
+![](img/word.1783676641185.png)
+![](img/vote.1783676641185.png)
+![](img/definition.1783676641185.png)
+![](img/example.1783676641185.png)
 
-<sub>Authored by: _Ryan Nash_ · See [original post](https://www.urbandictionary.com/define.php?term=Metal%20Fingers&defid=2544891)</sub>
+<sub>Authored by: _Shushhhhhhh_ · See [original post](https://www.urbandictionary.com/define.php?term=kalitesiz&defid=16093657)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
