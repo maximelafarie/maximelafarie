@@ -1,9 +1,9 @@
-![](img/word.1783676641185.png)
-![](img/vote.1783676641185.png)
-![](img/definition.1783676641185.png)
-![](img/example.1783676641185.png)
+![](img/word.1784276250319.png)
+![](img/vote.1784276250319.png)
+![](img/definition.1784276250319.png)
+![](img/example.1784276250319.png)
 
-<sub>Authored by: _Shushhhhhhh_ · See [original post](https://www.urbandictionary.com/define.php?term=kalitesiz&defid=16093657)</sub>
+<sub>Authored by: _Gmoneybling_ · See [original post](https://www.urbandictionary.com/define.php?term=Steven%20Ogg&defid=8026736)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
