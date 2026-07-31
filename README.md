@@ -1,9 +1,9 @@
-![](img/word.1784881987782.png)
-![](img/vote.1784881987782.png)
-![](img/definition.1784881987782.png)
-![](img/example.1784881987782.png)
+![](img/word.1785488129871.png)
+![](img/vote.1785488129871.png)
+![](img/definition.1785488129871.png)
+![](img/example.1785488129871.png)
 
-<sub>Authored by: _juicextractor_ · See [original post](https://www.urbandictionary.com/define.php?term=rolling%20numbers&defid=4121788)</sub>
+<sub>Authored by: _Bork_bork_ · See [original post](https://www.urbandictionary.com/define.php?term=Crashon&defid=13225979)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
