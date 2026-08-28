@@ -1,9 +1,9 @@
-![](img/word.1787295258323.png)
-![](img/vote.1787295258323.png)
-![](img/definition.1787295258323.png)
-![](img/example.1787295258323.png)
+![](img/word.1787941521187.png)
+![](img/vote.1787941521187.png)
+![](img/definition.1787941521187.png)
+![](img/example.1787941521187.png)
 
-<sub>Authored by: _adedicated5SOSfammember_ · See [original post](https://www.urbandictionary.com/define.php?term=Cliffoconda&defid=7442637)</sub>
+<sub>Authored by: _nidnd_ · See [original post](https://www.urbandictionary.com/define.php?term=nonreward&defid=17850053)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
