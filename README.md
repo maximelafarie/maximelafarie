@@ -1,9 +1,9 @@
-![](img/word.1787941521187.png)
-![](img/vote.1787941521187.png)
-![](img/definition.1787941521187.png)
-![](img/example.1787941521187.png)
+![](img/word.1788519460633.png)
+![](img/vote.1788519460633.png)
+![](img/definition.1788519460633.png)
+![](img/example.1788519460633.png)
 
-<sub>Authored by: _nidnd_ · See [original post](https://www.urbandictionary.com/define.php?term=nonreward&defid=17850053)</sub>
+<sub>Authored by: _Ogodm_ · See [original post](https://www.urbandictionary.com/define.php?term=Frog%20balls&defid=11587746)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
