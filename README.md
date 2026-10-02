@@ -1,9 +1,9 @@
-![](img/word.1790335895364.png)
-![](img/vote.1790335895364.png)
-![](img/definition.1790335895364.png)
-![](img/example.1790335895364.png)
+![](img/word.1790943124593.png)
+![](img/vote.1790943124593.png)
+![](img/definition.1790943124593.png)
+![](img/example.1790943124593.png)
 
-<sub>Authored by: _TASHNER217_ · See [original post](https://www.urbandictionary.com/define.php?term=silly%20goose&defid=14350061)</sub>
+<sub>Authored by: _faze ziemniak_ · See [original post](https://www.urbandictionary.com/define.php?term=ghaleb%20alahmmad&defid=14924770)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
