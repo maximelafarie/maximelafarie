@@ -1,9 +1,9 @@
-![](img/word.1792148655276.png)
-![](img/vote.1792148655276.png)
-![](img/definition.1792148655276.png)
-![](img/example.1792148655276.png)
+![](img/word.1792754339862.png)
+![](img/vote.1792754339862.png)
+![](img/definition.1792754339862.png)
+![](img/example.1792754339862.png)
 
-<sub>Authored by: _Virgina _ · See [original post](https://www.urbandictionary.com/define.php?term=Tainaiya&defid=10858883)</sub>
+<sub>Authored by: _Sammy Nutt_ · See [original post](https://www.urbandictionary.com/define.php?term=Brosephry&defid=5621832)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
