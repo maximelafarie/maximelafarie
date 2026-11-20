@@ -1,9 +1,9 @@
-![](img/word.1794579545690.png)
-![](img/vote.1794579545690.png)
-![](img/definition.1794579545690.png)
-![](img/example.1794579545690.png)
+![](img/word.1795187304138.png)
+![](img/vote.1795187304138.png)
+![](img/definition.1795187304138.png)
+![](img/example.1795187304138.png)
 
-<sub>Authored by: _Nyoka_ · See [original post](https://www.urbandictionary.com/define.php?term=foon&defid=142080)</sub>
+<sub>Authored by: _Annahabeg_ · See [original post](https://www.urbandictionary.com/define.php?term=Alvin&defid=16675507)</sub>
 
 <sub>The words and definitions displayed in the images are automatically retrieved from [Urban Dictionary](https://www.urbandictionary.com), and are not manually selected.
 As a result, some terms may be offensive, inappropriate, or controversial. Viewer discretion is advised.
